@@ -4,7 +4,7 @@
 2 回归算法  
 2.1 Simple Linear Regression 简单线性回归  
 2.2 Mutiple Linear Regression 多元线性回归  
-2.3 Polynomial Regression 多项式线性回归 
+2.3 Polynomial Regression 多项式线性回归   
 3 分类算法  
 3.1 Logistic Regression 逻辑回归  
 3.2 SVM(Support Vector Machine) 支持向量机  
