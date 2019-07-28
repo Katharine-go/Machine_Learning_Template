@@ -8,7 +8,7 @@
 3. 分类算法  
 3.1 Logistic Regression 逻辑回归  
 3.2 SVM(Support Vector Machine) 支持向量机  
-3.3 Kernel SVM
+3.3 Kernel SVM  
 3.4 Naive Bayes 朴素贝叶斯  
 3.5 Decision Tree 决策树  
 3.6 Random Forest 随机森林  
