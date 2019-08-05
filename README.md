@@ -12,4 +12,8 @@
 3.4 Naive Bayes 朴素贝叶斯  
 3.5 Decision Tree 决策树  
 3.6 Random Forest 随机森林  
+4. 集群算法  
+4.1 K—means K平均聚类算法  
+5. Association Rule Learning 关联规则学习  
+5.1 Apriori 先验算法  
 
